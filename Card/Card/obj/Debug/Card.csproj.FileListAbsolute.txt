@@ -1,0 +1,10 @@
+C:\Users\Cindy\Desktop\Card\Card\bin\Debug\Card.exe.config
+C:\Users\Cindy\Desktop\Card\Card\bin\Debug\Card.exe
+C:\Users\Cindy\Desktop\Card\Card\bin\Debug\Card.pdb
+C:\Users\Cindy\Desktop\Card\Card\obj\Debug\Card.csproj.AssemblyReference.cache
+C:\Users\Cindy\Desktop\Card\Card\obj\Debug\Card.Form1.resources
+C:\Users\Cindy\Desktop\Card\Card\obj\Debug\Card.Properties.Resources.resources
+C:\Users\Cindy\Desktop\Card\Card\obj\Debug\Card.csproj.GenerateResource.cache
+C:\Users\Cindy\Desktop\Card\Card\obj\Debug\Card.csproj.CoreCompileInputs.cache
+C:\Users\Cindy\Desktop\Card\Card\obj\Debug\Card.exe
+C:\Users\Cindy\Desktop\Card\Card\obj\Debug\Card.pdb
